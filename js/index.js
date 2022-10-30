@@ -2,9 +2,9 @@
 
 // function sendEmail(){
 //     Email.send({
-//         Host : "smtp.gmail.com",
-//         Username : "prinon96@gmail.com",
-//         Password : "jamesbond0727",
+//         Host : "smtp.mailtrap.io",
+//         Username : "8e5ba70912a4c8",
+//         Password : "deae615a68a217",
 //         To : 'mkitchenweb@gmail.com',
 //         From : document.getElementById("email").value,
 //         Subject : "Contact Enquiry",
